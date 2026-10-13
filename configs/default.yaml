@@ -1,0 +1,8 @@
+detector:
+  model_path: yolov8n.pt
+  conf: 0.3
+density:
+  grid_h: 16
+  grid_w: 16
+counter:
+  line_y_ratio: 0.5
